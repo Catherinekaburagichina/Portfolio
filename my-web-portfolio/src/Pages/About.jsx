@@ -4,13 +4,6 @@ import { Emoji } from "react-emoji-render";
 export default function About(){
     return (
 <div class="about-container">
-
-<div className="image-container">
-
-  {/* <img src="aboutimage.png" className="aboutPageImage"/> */}
-
-</div>
-
  <div className="paragraph-container">
 
 <h1>
@@ -22,7 +15,7 @@ export default function About(){
   </p>
 
   <p>
-   Her passion for technology started off when she wrote her first lines of code and witnessed the magic of turning ideas into interactive experiences. 🥳
+   Her passion for technology started off when she wrote her first lines of code and witnessed the magic of turning her ideas into interactive experiences. 🥳
 
   </p>
 
@@ -42,7 +35,7 @@ export default function About(){
  For more information 📞 feel free to reach out ✉️ at :
  </p>
 
- <p>
+ <p className="email">
  catherinegichinaa@gmail.com
  </p>
 </div>

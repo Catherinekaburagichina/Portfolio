@@ -10,7 +10,6 @@ import Footer from "./Footer";
 function App() {
   return (
     <Router>
-       
       <Title />
       <Header />
       <Routes>
@@ -18,7 +17,7 @@ function App() {
         <Route path="/about" element={<About />} />
         <Route path="/projects" element={<Projects />} />
       </Routes>
-      {/* <Footer/> */}
+       <Footer/> 
     </Router>
   );
 }

@@ -18,10 +18,9 @@ export default function Footer(){
 <a href = "https://www.linkedin.com/in/catherine-gichina-489b6320a/">
 <FontAwesomeIcon icon={faLinkedin} style={{color: "#000000"}}/>
 </a>
-
 </div>
-
-</footer>          
+</footer>   
+       
     )
 }
 
