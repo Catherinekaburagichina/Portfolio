@@ -5,7 +5,7 @@ export default function Footer(){
     return(
       
 <footer >
-    <div className="line">
+    <div className="line"> 
     <p>© 2024 Catherine Gichina. All rights reserved.</p>
     </div>
 

@@ -22,7 +22,7 @@ body, html {
 .header ul li a:hover,
 .header ul li a:focus,
 .header ul li a:active {
-  color: grey; /
+  color: grey; 
 }
 
 #name{
