@@ -9,8 +9,10 @@ export default function Footer(){
     <p>© 2024 Catherine Gichina. All rights reserved.</p>
     </div>
 
+
+
 <div className="iconContainer">
-<p>Reach out :</p>
+<p className="reach-out-text">Reach out :</p>
 <a href = "https://github.com/Catherinekaburagichina">
 <FontAwesomeIcon icon={faGithub} style={{color: "#000000"}}/>
 </a>
